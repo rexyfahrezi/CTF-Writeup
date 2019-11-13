@@ -1,5 +1,6 @@
 # CTF-Writeups
-Writeup CTF RexyFahrezi (Noid3a)
+CTF Writeups by Rexy Fahrezi (Noid3a)
+
 Contact :
  - Mail : rexyfahrezi30@gmail.com
  - Instagram : rexyfahrezi
