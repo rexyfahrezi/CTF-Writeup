@@ -1,4 +1,4 @@
-# CTF-Writeups
+# CTF-Writeups & Challanges
 All of my CTF WriteUp by Rexy Fahrezi (Noid3a)
 
 Contact :
