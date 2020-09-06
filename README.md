@@ -1,5 +1,5 @@
 # CTF-Writeups & Challanges
-All of my CTF Competition WriteUp by Rexy Fahrezi (Noid3a)
+CTF Competitions WriteUp by Rexy Fahrezi (Noid3a)
 
 Contact :
  - Web : https://rexyfahrezi.github.io/
